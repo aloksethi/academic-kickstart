@@ -1,0 +1,12 @@
+---
+title: "A 10-bit active RF phase shifter for 5G wireless systems"
+date: 2017-10-01
+publishDate: 2019-07-15T15:34:37.071200Z
+authors: ["<b>Alok Sethi</b>", "J. P. Aikio", "R. A. Shaheen", "R. Akbar", "T. Rahkonen", "A. Pärssinen"]
+publication_types: ["1"]
+abstract: ""
+featured: false
+publication: "*Proc. IEEE Nordic Circuits and Systems Conf. (NORCAS): NORCHIP and Int. Symp. of System-on-Chip (SoC)*"
+doi: "10.1109/NORCHIP.2017.8124958"
+---
+

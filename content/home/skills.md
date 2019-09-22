@@ -15,21 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Analog IC Design"
+  description = "High Frequency Analog RF Design"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Embedded Design"
+  description = "Hardware and Software design for embedded systems"
   
-[[feature]]
-  icon = "camera-retro"
+  [[feature]]
+  icon = "print"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "DIY"
+  description = "3D printing and modeling"
 +++
