@@ -1,7 +1,7 @@
 ---
 title: "Designing at Millimeter-Wave: Lessons from a Triple Coil Variable Transformer"
 date: 2019-01-01
-publishDate: 2019-09-22T15:44:06.184246Z
+publishDate: 2019-09-27T10:06:10.511096Z
 authors: ["<b>A.</b> <b>Sethi</b>", "R. Akbar", "J. P. Aikio", "R. A. Shaheen", "A. Pärssinen", "T. Rahkonen"]
 publication_types: ["0"]
 abstract: ""
