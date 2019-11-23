@@ -32,8 +32,12 @@ links:
    icon_pack: fas
    icon: graduation-cap
 
+ - name: Git Repo	
+   url: https://github.com/aloksethi/alwl/
+   icon_pack: fab
+   icon: github
 
-url_code: ""
+#url_code: "https://github.com/aloksethi/alwl/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -45,4 +49,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As I am still working on the project, I will list all the updates to it on this page.
+[//]: # ( As I am still working on the project, I will list all the updates to it on this page.)
+Finally, have a PCB with the ATmega328P. Gerber can be downladed from the Github. The designed board is a four layer board.
+Unfortunaltey, I associated a wrong footprint with the programming header so cannot plug the programming cable from the Atmel ICE directly. 
+Below are the images of how the header is actually placed and how it was supposed to be placed.
+
+
+{{< figure  library="true" src="alwl/header_pcb_layout.JPG" title="Programming header in the layout"  numbered="true" lightbox-group="header" >}}
+{{< figure  library="true" src="alwl/header_pcb_schm.JPG" title="Programming header in the schematic" numbered="true" lightbox-group="header" >}}
