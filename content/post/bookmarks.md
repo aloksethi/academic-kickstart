@@ -40,8 +40,8 @@ tags: ["Virtuoso","Maxima","Git","C"]
 			xmax and xmin for ac results</a></li>
 		<li> <a href="https://community.cadence.com/cadence_blogs_8/b/rf/archive/2009/01/07/tip-of-the-week-how-to-simulate-a-subcircuit-netlist-with-spectre-in-ade">
 			simulate a netlist</a></li>
-		<li> <a href="http://collaborate.bu.edu/moin/Cadence/PrintToImage">
-			adding the plotter
+		<li> <s><a href="http://collaborate.bu.edu/moin/Cadence/PrintToImage">
+			adding the plotter</a></s>. Hyperlink doesn't work anymore, check cached version</li>
 	</ul>
 
 ## Latex Related
