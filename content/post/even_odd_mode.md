@@ -36,3 +36,5 @@ Impedance of a single line with a common mode drive. It is double of common mode
 Impedance of a single line with a differential drive. It is half of differential mode impedance.
 
 Same thing in different and longer words can be read from https://www.tek.com/support/faqs/what-are-even-and-odd-modes-and-impedances-how-they-related-differential-and-common-mod
+
+* [More about Even-Odd mode](https://blog.lamsimenterprises.com/2011/02/07/pcb-cross-sectional-geometries/)

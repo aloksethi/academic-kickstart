@@ -40,8 +40,6 @@ tags: ["Virtuoso","Maxima","Git","C"]
 			xmax and xmin for ac results</a></li>
 		<li> <a href="https://community.cadence.com/cadence_blogs_8/b/rf/archive/2009/01/07/tip-of-the-week-how-to-simulate-a-subcircuit-netlist-with-spectre-in-ade">
 			simulate a netlist</a></li>
-		<li> <s><a href="http://collaborate.bu.edu/moin/Cadence/PrintToImage">
-			adding the plotter</a></s>. Hyperlink doesn't work anymore, check cached version</li>
 	</ul>
 
 ## Latex Related
@@ -61,23 +59,39 @@ tags: ["Virtuoso","Maxima","Git","C"]
 	</ul>
 	
 ## uC Related
-<ul type="disc">
-		<li> <a href="http://gnuarmeclipse.github.io/install/">
-			eclipse based development environement setup</a></li>
-	</ul>
+* [Setting up Eclipse for ARM development](http://gnuarmeclipse.github.io/install/)	
+* [Using a rotary encoder with a single pin](https://www.elektormagazine.com/labs/rotary-encoder-on-a-single-mcu-pin)
+* [Debugging memory-corruption on Cortex-M](http://m0agx.eu/2018/08/25/cortex-m-debugging-runtime-memory-corruption/)
+* [Infrared NEC protocol](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
 
 ## C Related
-<ul type="disc">
-		<li> <a href="http://c-faq.com/">
-			C FAQ</a></li>
-	</ul>
-
+* [C FAQs] (http://c-faq.com/)	
+* [Bit hacks] (http://graphics.stanford.edu/~seander/bithacks.html)
 	
 ## Random
-<ul type="disc">
-		<li> <a href="https://www.digikey.fi/en/Resources/Design-Tools/SchemeIt">
-			Drawing Schematic</a></li>
-	</ul>
+* [Drawing Schematic](https://www.digikey.fi/en/Resources/Design-Tools/SchemeIt)
+* [Basics about static pressure and air flow](https://blog.orientalmotor.com/fan-basics-air-flow-static-pressure-impedance)
+* [Fan basics](https://www.mouser.com/pdfDocs/sanyo-denki-tr40e_p03_cdiv_3rd.pdf)
+* [Data visualization](https://datavizhandbook.info/)
+
 
 ## Git
 * [Undoing/Fixing/Removing commits from Git](http://sethrobertson.github.io/GitFixUm/fixup.html)
+
+
+## Electronics
+* [considerations for designing a two stage supply filter (in short, make sure system is still stable as it is a feedback system with at-least two dominant poles)](ridleyengineering.com/images/phocadownload/1%20second%20stage%20filter%20design.pdf)
+
+
+
+
+
+
+lib.tkk.fi/Diss/2007/isbn9789513870256/isbn9789513870256.pdf
+
+https://ctoomey.com/speaking
+
+
+
+https://automatetheboringstuff.com/
+
