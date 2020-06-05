@@ -80,14 +80,15 @@ tags: ["Virtuoso","Maxima","Git","C"]
 
 
 ## Electronics
-* [considerations for designing a two stage supply filter (in short, make sure system is still stable as it is a feedback system with at-least two dominant poles)](ridleyengineering.com/images/phocadownload/1%20second%20stage%20filter%20design.pdf)
-
-
-
-
-
-
-lib.tkk.fi/Diss/2007/isbn9789513870256/isbn9789513870256.pdf
+* [considerations for designing a two stage supply LC filter (in short, make sure system is still stable as it is a feedback system with at-least two dominant poles)](ridleyengineering.com/images/phocadownload/1%20second%20stage%20filter%20design.pdf)
+* [High Speed Analog Design and Application Seminar by TI, part1 (Voltage and Current Feedback)	](http://www.ti.com/lit/pdf/slyp169)
+* [High Speed Analog Design and Application Seminar by TI, part2 (Amplifiers)					] (http://www.ti.com/lit/pdf/slyp170)
+* [High Speed Analog Design and Application Seminar by TI, part3 (Data converters)				] (http://www.ti.com/lit/pdf/slyp171)
+* [High Speed Analog Design and Application Seminar by TI, part4 (Selecting the right amplifier)] (http://www.ti.com/lit/pdf/slyp172)
+* [High Speed Analog Design and Application Seminar by TI, part5 (Layout) 						] (http://www.ti.com/lit/pdf/slyp173)
+* [High Speed Analog Design and Application Seminar by TI, part6 (Application Design)] (http://www.ti.com/lit/pdf/slyp174)
+* [High Speed interface layout guidelines](http://www.ti.com/lit/pdf/spraar7)
+* [MOSFET RF Characterization (PhD thesis)](lib.tkk.fi/Diss/2007/isbn9789513870256/isbn9789513870256.pdf)
 
 https://ctoomey.com/speaking
 

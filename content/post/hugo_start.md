@@ -28,10 +28,14 @@ image:
 projects: []
 ---
 # Hugo
-* Creating a new post. Go to the root of the website and fire th ebelow command. By default the title of the post will be the filename. 
+* Creating a new post. Go to the root of the website and fire the below command. By default the title of the post will be the filename. 
 ```
 cd personal_website\website
 hugo new content\post\hugo_start.md
+```
+Take a note on \ or / for the path. On mingw, use
+```
+hugo new content/post/hugo_start.md
 ```
 Command options from the webpage as reference https://gohugo.io/commands/hugo_new/
 ```
