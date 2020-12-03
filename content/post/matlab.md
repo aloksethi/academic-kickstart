@@ -108,5 +108,5 @@ ylim([-10 10])
 ```
 Exporting figure for publication
 ```
-export_fig('untitled.pdf')
+export_fig('-transparent','untitled.pdf')
 ```
