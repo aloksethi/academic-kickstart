@@ -110,3 +110,8 @@ Exporting figure for publication
 ```
 export_fig('-transparent','untitled.pdf')
 ```
+
+Importing data from virtuoso that was exported via VIVA
+```
+importdata('filename.matlab',',',1) %comma is delimmiter and 1 is number of header lines
+```
