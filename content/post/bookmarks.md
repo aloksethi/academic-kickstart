@@ -75,10 +75,6 @@ tags: ["Virtuoso","Maxima","Git","C"]
 * [Data visualization](https://datavizhandbook.info/)
 
 
-## Git
-* [Undoing/Fixing/Removing commits from Git](http://sethrobertson.github.io/GitFixUm/fixup.html)
-
-
 ## Electronics
 * [considerations for designing a two stage supply LC filter (in short, make sure system is still stable as it is a feedback system with at-least two dominant poles)](ridleyengineering.com/images/phocadownload/1%20second%20stage%20filter%20design.pdf)
 * [High Speed Analog Design and Application Seminar by TI, part1 (Voltage and Current Feedback)	](http://www.ti.com/lit/pdf/slyp169)

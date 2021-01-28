@@ -5,7 +5,7 @@ title: "Virtuoso"
 subtitle: "Some tips and tricks"
 summary: ""
 authors: []
-tags: []
+tags: ["Virtuoso"]
 categories: []
 date: 2020-06-05T17:31:51+03:00
 lastmod: 2020-06-05T17:31:51+03:00

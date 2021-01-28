@@ -5,7 +5,7 @@ title: "Using ST32 uC in vscode"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: [STM32, vscode]
 categories: []
 date: 2021-01-18T23:15:06+02:00
 lastmod: 2021-01-18T23:15:06+02:00
