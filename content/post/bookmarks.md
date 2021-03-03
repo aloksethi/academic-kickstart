@@ -61,8 +61,13 @@ tags: ["Virtuoso","Maxima","Git","C"]
 ## uC Related
 * [Setting up Eclipse for ARM development](http://gnuarmeclipse.github.io/install/)	
 * [Using a rotary encoder with a single pin](https://www.elektormagazine.com/labs/rotary-encoder-on-a-single-mcu-pin)
-* [Debugging memory-corruption on Cortex-M](http://m0agx.eu/2018/08/25/cortex-m-debugging-runtime-memory-corruption/)
 * [Infrared NEC protocol](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
+
+## ARM specific debugging
+* [Debugging memory-corruption on Cortex-M](http://m0agx.eu/2018/08/25/cortex-m-debugging-runtime-memory-corruption/)
+* [Debugging Hard faults Cortex-M](https://interrupt.memfault.com/blog/cortex-m-fault-debug)
+* [Debugging Hard faults](https://embeddedartistry.com/blog/2021/01/11/hard-fault-debugging/)
+
 
 ## C Related
 * [C FAQs] (http://c-faq.com/)	
