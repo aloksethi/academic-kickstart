@@ -67,7 +67,10 @@ tags: ["Virtuoso","Maxima","Git","C"]
 * [Debugging memory-corruption on Cortex-M](http://m0agx.eu/2018/08/25/cortex-m-debugging-runtime-memory-corruption/)
 * [Debugging Hard faults Cortex-M](https://interrupt.memfault.com/blog/cortex-m-fault-debug)
 * [Debugging Hard faults](https://embeddedartistry.com/blog/2021/01/11/hard-fault-debugging/)
+* [Semihosting](https://interrupt.memfault.com/blog/arm-semihosting)
 
+## ESP32
+* [ESP32 pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
 ## C Related
 * [C FAQs] (http://c-faq.com/)	
