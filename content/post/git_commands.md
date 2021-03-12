@@ -37,6 +37,9 @@ A small collection of information regarding git
 * At the local machine, added the remote repository as a remote ` git remote add cwc_server ssh://USER_NAME@SERVER_NAME:/research/rftrx/library/git_repo.git`.
 * Now can push to the remote `git push cwc_server master`. Syntax of git push is `git push <remote> <local_branch>:<remote_branch>`.In order to set the defaults for ths push command, execute the `git push -u cwc_server master`.
 
+## saving password
+* When on linux/WSL </br>
+`git config --local credential.helper 'cache --timeout=3600000'`
 
 ## Useful links<br> 
 * [Git on a server](https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server#_getting_git_on_a_server)
