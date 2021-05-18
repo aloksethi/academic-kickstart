@@ -79,7 +79,7 @@ Split figures
 ```
 %% subplots with a main title and separate titles
 
-suptitle('Main title')
+sgtitle('Main title') %sgtitle is 
 
 subplot(2,2,1)
 plot(x_data, y_data,'-r'), grid on, title('subplot1'),legend('Simulated'), xlabel('X'), ylabel('Y')
