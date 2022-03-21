@@ -31,7 +31,7 @@ projects: []
 [Panel](https://joy-it.net/en/products/LED-Matrix01) <br>
 ICs on the panel
 
-Specifications from the data sheet
+## Specifications from the data sheet
 
 specification         | value 
 :---:                 | :---: 
@@ -42,8 +42,10 @@ Operating temperature | -20 -55 °C
 Sight angle           | 140°
 Pixel density         | 111111 Pixel / m²
 
-
-links for instructinos which are not exactly working <br>
+## Links
+### Useful info
+[LED dimming via Binary code modulation](http://www.batsocks.co.uk/readme/art_bcm_1.htm)
+### links for instructions which are not exactly working <br>
 [dfrobot](https://wiki.dfrobot.com/64x64_RGB_LED_Matrix_-_3mm_pitch_SKU_DFR0499#target_4) <br>
 [DFRobot github](https://github.com/DFRobot/DFRobot_RGBMatrix) <br>
 [Writeup on Adafruit's 16 X 32](http://www.rayslogic.com/propeller/Programming/AdafruitRGB/AdafruitRGB.htm) <br>
